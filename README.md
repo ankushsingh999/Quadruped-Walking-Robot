@@ -24,6 +24,6 @@ Designed a quadruped walking robot, with 2-DOF planar legs, to have a constant w
 
 ***Plots would look similar for all the legs***
 
- A simulation (video) of a leg in swing phase my designed parameters.
+ A simulation (video) of a leg in swing phase for my designed parameters.
 
 ![ezgif com-gif-maker (5)](https://github.com/ankushsingh999/Quadruped-Walking-Robot/assets/64325043/1ab0ddc9-b350-4654-9a7f-38058f74a767)
